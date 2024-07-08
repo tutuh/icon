@@ -7,6 +7,6 @@
      { "name": "chatgptmini", "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/chatgpt_mini.png"},   
      { "name": "telegram", "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/telegram.png"},
      { "name": "enet", "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/enet.png"},
-        
+     { "name": "speedtest", "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/speedtest.png"},
     ]
 }
