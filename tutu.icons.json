@@ -1,0 +1,34 @@
+{
+  "name": "图标订阅",
+  "description": "收集一些自己脚本用到的图标",
+  "icons": [
+    {
+      "name": "surge.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/surge.png"
+    },
+    {
+      "name": "chatgpt_mini.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/chatgpt_mini.png"
+    },
+    {
+      "name": "google.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/google.png"
+    },
+    {
+      "name": "speedtest.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/speedtest.png"
+    },
+    {
+      "name": "enet.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/enet.png"
+    },
+    {
+      "name": "chatgpt.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/chatgpt.png"
+    },
+    {
+      "name": "telegram.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/telegram.png"
+    }
+  ]
+}
