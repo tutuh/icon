@@ -3,10 +3,10 @@ name: Image Workflow
 on:
   push:
     paths:
-      - 'iconSet/**' # 监视 leviicons 文件夹及其子文件夹下的内容
+      - 'iconSet/**' # 监视 iconSet 文件夹及其子文件夹下的内容
   pull_request:
     paths:
-      - 'iconSet/**' # 监视 leviicons 文件夹及其子文件夹下的内容
+      - 'iconSet/**' # 监视 iconSet 文件夹及其子文件夹下的内容
 
 jobs:
   generate_json:
@@ -30,7 +30,7 @@ jobs:
       run: |
         python .github/scripts/generate_image_json.py
       env:
-        GB_TOKEN: ${{ secrets.GB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     - name: Upload artifact
       uses: actions/upload-artifact@v2
@@ -46,4 +46,4 @@ jobs:
         git commit -m "自动更新图标仓库"
         git push origin HEAD:main
       env:
-        GB_TOKEN: ${{ secrets.GB_TOKEN }}   
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   
