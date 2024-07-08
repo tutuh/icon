@@ -37,7 +37,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: json-artifact
-        path: ${{ github.workspace }}/tutu.icons.json
+        path: ${{ github.workspace }}/iconSet.json
 
     - name: Push to icon Repository
       run: |
