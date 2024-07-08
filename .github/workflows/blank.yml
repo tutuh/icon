@@ -35,13 +35,13 @@ jobs:
       run: |
         python .github/scripts/generate_image_json.py
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GB_TOKEN: ${{ secrets.GB_TOKEN }}
 
     - name: Upload artifact
       uses: actions/upload-artifact@v2
       with:
         name: json-artifact
-        path: ${{ github.workspace }}/TUTU.icons.json
+        path: ${{ github.workspace }}/tutu.icons.json
 
     - name: Push to TEST Repository
       run: |
@@ -51,4 +51,4 @@ jobs:
         git commit -m "Add generated JSON file"
         git push origin HEAD:main
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GB_TOKEN: ${{ secrets.GB_TOKEN }}
