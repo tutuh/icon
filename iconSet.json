@@ -11,8 +11,16 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/speedtest.png"
     },
     {
+      "name": "gaodeditu.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/gaodeditu.png"
+    },
+    {
       "name": "telegram.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/telegram.png"
+    },
+    {
+      "name": "xiaohongshu.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/xiaohongshu.png"
     },
     {
       "name": "chatgpt_mini.png",
@@ -21,6 +29,10 @@
     {
       "name": "weibo.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/weibo.png"
+    },
+    {
+      "name": "tieba.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/tieba.png"
     },
     {
       "name": "enet.png",
