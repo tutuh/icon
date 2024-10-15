@@ -7,16 +7,20 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/surge.png"
     },
     {
+      "name": "speedtest.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/speedtest.png"
+    },
+    {
+      "name": "telegram.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/telegram.png"
+    },
+    {
       "name": "chatgpt_mini.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/chatgpt_mini.png"
     },
     {
-      "name": "google.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/google.png"
-    },
-    {
-      "name": "speedtest.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/speedtest.png"
+      "name": "weibo.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/weibo.png"
     },
     {
       "name": "enet.png",
@@ -27,8 +31,8 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/chatgpt.png"
     },
     {
-      "name": "telegram.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/telegram.png"
+      "name": "google.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/google.png"
     }
   ]
 }
