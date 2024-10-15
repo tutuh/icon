@@ -33,6 +33,10 @@
     {
       "name": "google.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/google.png"
+    },
+    {
+      "name": "mxbc.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/mxbc.png"
     }
   ]
 }
