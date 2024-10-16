@@ -19,6 +19,10 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/telegram.png"
     },
     {
+      "name": "US.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/US.png"
+    },
+    {
       "name": "xiaohongshu.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/xiaohongshu.png"
     },
@@ -33,6 +37,10 @@
     {
       "name": "tieba.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/tieba.png"
+    },
+    {
+      "name": "SG.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SG.png"
     },
     {
       "name": "enet.png",
@@ -51,12 +59,24 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/google.png"
     },
     {
+      "name": "HK.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/HK.png"
+    },
+    {
       "name": "sfsy.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/sfsy.png"
     },
     {
+      "name": "JP.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/JP.png"
+    },
+    {
       "name": "mxbc.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/mxbc.png"
+    },
+    {
+      "name": "UK.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/UK.png"
     }
   ]
 }
