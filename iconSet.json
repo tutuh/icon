@@ -3,6 +3,10 @@
   "description": "Icon Set for Surge",
   "icons": [
     {
+      "name": "QQ.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/QQ.png"
+    },
+    {
       "name": "surge.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/surge.png"
     },
@@ -39,6 +43,14 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SG.png"
     },
     {
+      "name": "bdmap.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/bdmap.png"
+    },
+    {
+      "name": "meituan.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/meituan.png"
+    },
+    {
       "name": "enet.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/enet.png"
     },
@@ -55,6 +67,10 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/HK.png"
     },
     {
+      "name": "ximalaya.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/ximalaya.png"
+    },
+    {
       "name": "sfsy.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/sfsy.png"
     },
@@ -63,12 +79,28 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/JP.png"
     },
     {
+      "name": "amap.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/amap.png"
+    },
+    {
+      "name": "zhihu.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/zhihu.png"
+    },
+    {
       "name": "mxbc.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/mxbc.png"
     },
     {
       "name": "UK.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/UK.png"
+    },
+    {
+      "name": "teamilk.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/teamilk.png"
+    },
+    {
+      "name": "elem.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/elem.png"
     }
   ]
 }
