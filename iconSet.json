@@ -15,12 +15,20 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/zhihu.png"
     },
     {
+      "name": "Streaming.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Streaming.png"
+    },
+    {
       "name": "mxbc.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/mxbc.png"
     },
     {
       "name": "ximalaya.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/ximalaya.png"
+    },
+    {
+      "name": "GlobalMedia.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/GlobalMedia.png"
     },
     {
       "name": "amap.png",
@@ -83,6 +91,10 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/US.png"
     },
     {
+      "name": "Global.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Global.png"
+    },
+    {
       "name": "USs.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/USs.png"
     },
@@ -133,6 +145,10 @@
     {
       "name": "surge.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/surge.png"
+    },
+    {
+      "name": "StreamingSE.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/StreamingSE.png"
     },
     {
       "name": "Final.png",
