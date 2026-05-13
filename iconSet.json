@@ -3,10 +3,6 @@
   "description": "Icon Set for Surge",
   "icons": [
     {
-      "name": "USs.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/USs.png"
-    },
-    {
       "name": "speedtest.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/speedtest.png"
     },
@@ -111,10 +107,6 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/weibo.png"
     },
     {
-      "name": "TWs.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/TWs.png"
-    },
-    {
       "name": "US.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/US.png"
     },
@@ -139,10 +131,6 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/mxbc.png"
     },
     {
-      "name": "US1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/US1.png"
-    },
-    {
       "name": "google.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/google.png"
     },
@@ -157,10 +145,6 @@
     {
       "name": "teamilk.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/teamilk.png"
-    },
-    {
-      "name": "UKs.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/UKs.png"
     }
   ]
 }
