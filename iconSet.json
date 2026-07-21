@@ -35,6 +35,10 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/weibo.png"
     },
     {
+      "name": "AI3.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI3.png"
+    },
+    {
       "name": "Cloudflare.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Cloudflare.png"
     },
@@ -47,8 +51,16 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/UK-Light.png"
     },
     {
+      "name": "AI2.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI2.png"
+    },
+    {
       "name": "SG-Light.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SG-Light.png"
+    },
+    {
+      "name": "AI5.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI5.png"
     },
     {
       "name": "chatgpt.png",
@@ -209,6 +221,10 @@
     {
       "name": "google.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/google.png"
+    },
+    {
+      "name": "AI4.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI4.png"
     },
     {
       "name": "Russia.png",
