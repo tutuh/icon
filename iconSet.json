@@ -3,6 +3,10 @@
   "description": "Icon Set for Surge",
   "icons": [
     {
+      "name": "Global3.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Global3.png"
+    },
+    {
       "name": "Spotify.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Spotify.png"
     },
@@ -213,6 +217,10 @@
     {
       "name": "Target1.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target1.png"
+    },
+    {
+      "name": "Microsoft1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Microsoft1.png"
     },
     {
       "name": "ximalaya.png",
