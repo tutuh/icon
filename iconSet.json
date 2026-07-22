@@ -7,20 +7,20 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Spotify.png"
     },
     {
+      "name": "TW.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/TW.png"
+    },
+    {
       "name": "tuhu.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/tuhu.png"
     },
     {
-      "name": "Japan.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Japan.png"
+      "name": "TV.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/TV.png"
     },
     {
       "name": "AI.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI.png"
-    },
-    {
-      "name": "RU-Light.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/RU-Light.png"
     },
     {
       "name": "weibo.png",
@@ -31,24 +31,36 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI3.png"
     },
     {
-      "name": "Cloudflare.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Cloudflare.png"
+      "name": "sfexpress.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/sfexpress.png"
     },
     {
-      "name": "sfexpress-Light.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/sfexpress-Light.png"
-    },
-    {
-      "name": "UK-Light.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/UK-Light.png"
+      "name": "RU1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/RU1.png"
     },
     {
       "name": "AI2.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI2.png"
     },
     {
-      "name": "SG-Light.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SG-Light.png"
+      "name": "Target.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target.png"
+    },
+    {
+      "name": "KR1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/KR1.png"
+    },
+    {
+      "name": "HK1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/HK1.png"
+    },
+    {
+      "name": "KR.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/KR.png"
+    },
+    {
+      "name": "SG1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SG1.png"
     },
     {
       "name": "AI5.png",
@@ -63,16 +75,8 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Music.png"
     },
     {
-      "name": "Korea.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Korea.png"
-    },
-    {
       "name": "SG.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SG.png"
-    },
-    {
-      "name": "Singapore.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Singapore.png"
     },
     {
       "name": "surge.png",
@@ -91,20 +95,20 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/VMess.png"
     },
     {
-      "name": "sfexpress-Color.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/sfexpress-Color.png"
-    },
-    {
-      "name": "US-Light.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/US-Light.png"
-    },
-    {
       "name": "Disney+.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Disney+.png"
     },
     {
       "name": "Streaming.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Streaming.png"
+    },
+    {
+      "name": "Google1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Google1.png"
+    },
+    {
+      "name": "US2.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/US2.png"
     },
     {
       "name": "GlobalMedia.png",
@@ -117,6 +121,10 @@
     {
       "name": "mxbc.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/mxbc.png"
+    },
+    {
+      "name": "Pro1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Pro1.png"
     },
     {
       "name": "US.png",
@@ -139,8 +147,16 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/bdmap.png"
     },
     {
-      "name": "TW-Light.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/TW-Light.png"
+      "name": "US1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/US1.png"
+    },
+    {
+      "name": "JP1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/JP1.png"
+    },
+    {
+      "name": "HK2.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/HK2.png"
     },
     {
       "name": "AI1.png",
@@ -155,16 +171,16 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/StreamingSE.png"
     },
     {
+      "name": "UK1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/UK1.png"
+    },
+    {
       "name": "speedtest.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/speedtest.png"
     },
     {
       "name": "QQ.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/QQ.png"
-    },
-    {
-      "name": "sfsy.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/sfsy.png"
     },
     {
       "name": "SSR.png",
@@ -175,10 +191,6 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SS.png"
     },
     {
-      "name": "KR-Light.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/KR-Light.png"
-    },
-    {
       "name": "elem.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/elem.png"
     },
@@ -187,8 +199,8 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/chatgpt_mini.png"
     },
     {
-      "name": "Googlemini.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Googlemini.png"
+      "name": "Target1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target1.png"
     },
     {
       "name": "ximalaya.png",
@@ -203,16 +215,24 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/tieba.png"
     },
     {
+      "name": "RU.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/RU.png"
+    },
+    {
+      "name": "JP2.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/JP2.png"
+    },
+    {
       "name": "JP.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/JP.png"
     },
     {
-      "name": "Apple.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Apple.png"
+      "name": "Netflix1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Netflix1.png"
     },
     {
-      "name": "google.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/google.png"
+      "name": "Apple.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Apple.png"
     },
     {
       "name": "AI4.png",
@@ -231,6 +251,10 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Final.png"
     },
     {
+      "name": "SG2.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SG2.png"
+    },
+    {
       "name": "Trojan.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Trojan.png"
     },
@@ -247,8 +271,16 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/enet.png"
     },
     {
+      "name": "Pro.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Pro.png"
+    },
+    {
       "name": "cloudflare.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/cloudflare.png"
+    },
+    {
+      "name": "sfexpress1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/sfexpress1.png"
     },
     {
       "name": "Google.png",
