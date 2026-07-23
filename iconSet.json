@@ -3,16 +3,284 @@
   "description": "Icon Set for Surge",
   "icons": [
     {
+      "name": "AI.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI.png"
+    },
+    {
+      "name": "AI1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI1.png"
+    },
+    {
+      "name": "AI2.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI2.png"
+    },
+    {
+      "name": "AI3.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI3.png"
+    },
+    {
+      "name": "AI4.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI4.png"
+    },
+    {
+      "name": "AI5.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI5.png"
+    },
+    {
+      "name": "amap.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/amap.png"
+    },
+    {
+      "name": "Apple.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Apple.png"
+    },
+    {
+      "name": "Apple1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Apple1.png"
+    },
+    {
+      "name": "bdmap.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/bdmap.png"
+    },
+    {
+      "name": "chatgpt.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/chatgpt.png"
+    },
+    {
+      "name": "chatgpt_mini.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/chatgpt_mini.png"
+    },
+    {
+      "name": "cloudflare.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/cloudflare.png"
+    },
+    {
+      "name": "cloudflare1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/cloudflare1.png"
+    },
+    {
+      "name": "Disney+.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Disney+.png"
+    },
+    {
+      "name": "elem.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/elem.png"
+    },
+    {
+      "name": "enet.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/enet.png"
+    },
+    {
+      "name": "Final.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Final.png"
+    },
+    {
+      "name": "Global.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Global.png"
+    },
+    {
+      "name": "Global1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Global1.png"
+    },
+    {
+      "name": "Global2.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Global2.png"
+    },
+    {
       "name": "Global3.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Global3.png"
+    },
+    {
+      "name": "Global4.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Global4.png"
+    },
+    {
+      "name": "Global5.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Global5.png"
+    },
+    {
+      "name": "GlobalMedia.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/GlobalMedia.png"
+    },
+    {
+      "name": "Google.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Google.png"
+    },
+    {
+      "name": "Google1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Google1.png"
+    },
+    {
+      "name": "HK.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/HK.png"
+    },
+    {
+      "name": "HK1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/HK1.png"
+    },
+    {
+      "name": "HK2.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/HK2.png"
+    },
+    {
+      "name": "JP.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/JP.png"
+    },
+    {
+      "name": "JP1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/JP1.png"
+    },
+    {
+      "name": "JP2.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/JP2.png"
+    },
+    {
+      "name": "KR.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/KR.png"
+    },
+    {
+      "name": "KR1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/KR1.png"
+    },
+    {
+      "name": "meituan.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/meituan.png"
+    },
+    {
+      "name": "Microsoft.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Microsoft.png"
+    },
+    {
+      "name": "Microsoft1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Microsoft1.png"
+    },
+    {
+      "name": "Music.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Music.png"
+    },
+    {
+      "name": "mxbc.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/mxbc.png"
+    },
+    {
+      "name": "Netflix.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Netflix.png"
+    },
+    {
+      "name": "Netflix1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Netflix1.png"
+    },
+    {
+      "name": "Pro.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Pro.png"
+    },
+    {
+      "name": "Pro1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Pro1.png"
+    },
+    {
+      "name": "QQ.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/QQ.png"
+    },
+    {
+      "name": "RU.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/RU.png"
+    },
+    {
+      "name": "RU1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/RU1.png"
+    },
+    {
+      "name": "sfexpress.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/sfexpress.png"
+    },
+    {
+      "name": "sfexpress1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/sfexpress1.png"
+    },
+    {
+      "name": "SG.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SG.png"
+    },
+    {
+      "name": "SG1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SG1.png"
+    },
+    {
+      "name": "SG2.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SG2.png"
+    },
+    {
+      "name": "speedtest.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/speedtest.png"
     },
     {
       "name": "Spotify.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Spotify.png"
     },
     {
-      "name": "TW.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/TW.png"
+      "name": "SS.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SS.png"
+    },
+    {
+      "name": "SSR.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SSR.png"
+    },
+    {
+      "name": "Streaming.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Streaming.png"
+    },
+    {
+      "name": "StreamingSE.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/StreamingSE.png"
+    },
+    {
+      "name": "surge.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/surge.png"
+    },
+    {
+      "name": "Target.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target.png"
+    },
+    {
+      "name": "Target1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target1.png"
+    },
+    {
+      "name": "Target2.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target2.png"
+    },
+    {
+      "name": "Target3.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target3.png"
+    },
+    {
+      "name": "Target4.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target4.png"
+    },
+    {
+      "name": "Target5.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target5.png"
+    },
+    {
+      "name": "task.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/task.png"
+    },
+    {
+      "name": "teamilk.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/teamilk.png"
+    },
+    {
+      "name": "telegram.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/telegram.png"
+    },
+    {
+      "name": "tieba.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/tieba.png"
+    },
+    {
+      "name": "Trojan.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Trojan.png"
     },
     {
       "name": "tuhu.png",
@@ -23,312 +291,48 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/TV.png"
     },
     {
-      "name": "AI.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI.png"
-    },
-    {
-      "name": "Global4.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Global4.png"
-    },
-    {
-      "name": "weibo.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/weibo.png"
-    },
-    {
-      "name": "AI3.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI3.png"
-    },
-    {
-      "name": "sfexpress.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/sfexpress.png"
-    },
-    {
-      "name": "RU1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/RU1.png"
-    },
-    {
-      "name": "Global1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Global1.png"
-    },
-    {
-      "name": "AI2.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI2.png"
-    },
-    {
-      "name": "Target.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target.png"
-    },
-    {
-      "name": "cloudflare1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/cloudflare1.png"
-    },
-    {
-      "name": "KR1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/KR1.png"
-    },
-    {
-      "name": "HK1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/HK1.png"
-    },
-    {
-      "name": "KR.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/KR.png"
-    },
-    {
-      "name": "SG1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SG1.png"
-    },
-    {
-      "name": "AI5.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI5.png"
-    },
-    {
-      "name": "chatgpt.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/chatgpt.png"
-    },
-    {
-      "name": "Target3.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target3.png"
-    },
-    {
-      "name": "Apple1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Apple1.png"
-    },
-    {
-      "name": "Music.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Music.png"
-    },
-    {
-      "name": "Target5.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target5.png"
-    },
-    {
-      "name": "SG.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SG.png"
-    },
-    {
-      "name": "surge.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/surge.png"
-    },
-    {
-      "name": "zhihu.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/zhihu.png"
-    },
-    {
-      "name": "teamilk.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/teamilk.png"
-    },
-    {
-      "name": "VMess.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/VMess.png"
-    },
-    {
-      "name": "Disney+.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Disney+.png"
-    },
-    {
-      "name": "Streaming.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Streaming.png"
-    },
-    {
-      "name": "Google1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Google1.png"
-    },
-    {
-      "name": "US2.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/US2.png"
-    },
-    {
-      "name": "GlobalMedia.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/GlobalMedia.png"
-    },
-    {
-      "name": "HK.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/HK.png"
-    },
-    {
-      "name": "mxbc.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/mxbc.png"
-    },
-    {
-      "name": "Pro1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Pro1.png"
-    },
-    {
-      "name": "US.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/US.png"
-    },
-    {
-      "name": "xiaohongshu.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/xiaohongshu.png"
-    },
-    {
-      "name": "Global.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Global.png"
-    },
-    {
-      "name": "Netflix.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Netflix.png"
-    },
-    {
-      "name": "bdmap.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/bdmap.png"
-    },
-    {
-      "name": "Target4.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target4.png"
-    },
-    {
-      "name": "US1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/US1.png"
-    },
-    {
-      "name": "JP1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/JP1.png"
-    },
-    {
-      "name": "HK2.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/HK2.png"
-    },
-    {
-      "name": "AI1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI1.png"
-    },
-    {
-      "name": "telegram.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/telegram.png"
-    },
-    {
-      "name": "StreamingSE.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/StreamingSE.png"
-    },
-    {
-      "name": "UK1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/UK1.png"
-    },
-    {
-      "name": "speedtest.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/speedtest.png"
-    },
-    {
-      "name": "QQ.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/QQ.png"
-    },
-    {
-      "name": "SSR.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SSR.png"
-    },
-    {
-      "name": "SS.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SS.png"
-    },
-    {
-      "name": "elem.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/elem.png"
-    },
-    {
-      "name": "chatgpt_mini.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/chatgpt_mini.png"
-    },
-    {
-      "name": "Target1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target1.png"
-    },
-    {
-      "name": "Microsoft1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Microsoft1.png"
-    },
-    {
-      "name": "ximalaya.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/ximalaya.png"
-    },
-    {
-      "name": "Microsoft.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Microsoft.png"
-    },
-    {
-      "name": "tieba.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/tieba.png"
-    },
-    {
-      "name": "RU.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/RU.png"
-    },
-    {
-      "name": "JP2.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/JP2.png"
-    },
-    {
-      "name": "JP.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/JP.png"
-    },
-    {
-      "name": "Netflix1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Netflix1.png"
-    },
-    {
-      "name": "Apple.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Apple.png"
-    },
-    {
-      "name": "AI4.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI4.png"
-    },
-    {
-      "name": "amap.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/amap.png"
-    },
-    {
-      "name": "task.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/task.png"
-    },
-    {
-      "name": "Final.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Final.png"
-    },
-    {
-      "name": "SG2.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/SG2.png"
-    },
-    {
-      "name": "Global2.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Global2.png"
-    },
-    {
-      "name": "Trojan.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Trojan.png"
+      "name": "TW.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/TW.png"
     },
     {
       "name": "UK.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/UK.png"
     },
     {
-      "name": "meituan.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/meituan.png"
+      "name": "UK1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/UK1.png"
     },
     {
-      "name": "enet.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/enet.png"
+      "name": "US.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/US.png"
     },
     {
-      "name": "Target2.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Target2.png"
+      "name": "US1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/US1.png"
     },
     {
-      "name": "Pro.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Pro.png"
+      "name": "US2.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/US2.png"
     },
     {
-      "name": "cloudflare.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/cloudflare.png"
+      "name": "VMess.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/VMess.png"
     },
     {
-      "name": "sfexpress1.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/sfexpress1.png"
+      "name": "weibo.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/weibo.png"
     },
     {
-      "name": "Google.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Google.png"
+      "name": "xiaohongshu.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/xiaohongshu.png"
+    },
+    {
+      "name": "ximalaya.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/ximalaya.png"
+    },
+    {
+      "name": "zhihu.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/zhihu.png"
     }
   ]
 }
