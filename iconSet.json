@@ -195,6 +195,10 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Robot2.png"
     },
     {
+      "name": "Robot3.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Robot3.png"
+    },
+    {
       "name": "RU.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/RU.png"
     },
@@ -319,8 +323,16 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/TV.png"
     },
     {
+      "name": "TV1.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/TV1.png"
+    },
+    {
       "name": "TV2.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/TV2.png"
+    },
+    {
+      "name": "TV3.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/TV3.png"
     },
     {
       "name": "TW.png",
