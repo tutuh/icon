@@ -31,6 +31,10 @@
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI-C.png"
     },
     {
+      "name": "AI-CO.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI-CO.png"
+    },
+    {
       "name": "amap.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/amap.png"
     },
@@ -413,6 +417,10 @@
     {
       "name": "zhihu.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/zhihu.png"
+    },
+    {
+      "name": "人工智能.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/人工智能.png"
     }
   ]
 }
