@@ -3,10 +3,6 @@
   "description": "Icon Set for Surge",
   "icons": [
     {
-      "name": "ai.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/ai.png"
-    },
-    {
       "name": "AI.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI.png"
     },
@@ -29,14 +25,6 @@
     {
       "name": "AI5.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI5.png"
-    },
-    {
-      "name": "ai (3).png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/ai (3).png"
-    },
-    {
-      "name": "AI助手-copy.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/AI助手-copy.png"
     },
     {
       "name": "amap.png",
@@ -421,10 +409,6 @@
     {
       "name": "zhihu.png",
       "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/zhihu.png"
-    },
-    {
-      "name": "人工智能.png",
-      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/人工智能.png"
     }
   ]
 }
