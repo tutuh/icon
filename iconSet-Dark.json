@@ -1,0 +1,86 @@
+{
+  "name": "Tutu图标订阅 - Dark",
+  "description": "Icon Set for Surge",
+  "icons": [
+    {
+      "name": "AI.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/AI.png"
+    },
+    {
+      "name": "AI (1).png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/AI (1).png"
+    },
+    {
+      "name": "AI (2).png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/AI (2).png"
+    },
+    {
+      "name": "Apple.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/Apple.png"
+    },
+    {
+      "name": "Apple (2).png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/Apple (2).png"
+    },
+    {
+      "name": "ChatGPT.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/ChatGPT.png"
+    },
+    {
+      "name": "ChatGPT_Mini.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/ChatGPT_Mini.png"
+    },
+    {
+      "name": "Cloudflare.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/Cloudflare.png"
+    },
+    {
+      "name": "Disney+.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/Disney+.png"
+    },
+    {
+      "name": "enet.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/enet.png"
+    },
+    {
+      "name": "Final.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/Final.png"
+    },
+    {
+      "name": "Global.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/Global.png"
+    },
+    {
+      "name": "Global (1).png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/Global (1).png"
+    },
+    {
+      "name": "Global (2).png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/Global (2).png"
+    },
+    {
+      "name": "Global (3).png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/Global (3).png"
+    },
+    {
+      "name": "Global (4).png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/Global (4).png"
+    },
+    {
+      "name": "GlobalMedia.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/GlobalMedia.png"
+    },
+    {
+      "name": "Google.png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/Google.png"
+    },
+    {
+      "name": "Google (1).png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/Google (1).png"
+    },
+    {
+      "name": "HK (1).png",
+      "url": "https://raw.githubusercontent.com/tutuh/icon/main/iconSet/Dark/HK (1).png"
+    }
+  ]
+}
