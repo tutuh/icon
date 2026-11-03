@@ -1,12 +1,13 @@
+
 name: Image Workflow
 
 on:
   push:
     paths:
-      - 'iconSet/**' # 监视 icons 文件夹及其子文件夹下的内容
+      - 'iconSet/**'
   pull_request:
     paths:
-      - 'iconSet/**' # 监视 icons 文件夹及其子文件夹下的内容
+      - 'iconSet/**'
   workflow_dispatch:
 
 jobs:
@@ -37,14 +38,16 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: json-artifact
-        path: ${{ github.workspace }}/iconSet.json
+        path: |
+          ${{ github.workspace }}/iconSet-Color.json
+          ${{ github.workspace }}/iconSet-Dark.json
 
     - name: Push to icon Repository
       run: |
         git config user.name "${{ github.actor }}"
         git config user.email "${{ github.actor }}@users.noreply.github.com"
-        git add .
-        git commit -m "自动更新图标仓库"
+        git add iconSet/ iconSet-Color.json iconSet-Dark.json
+        git commit -m "自动更新图标仓库" || exit 0
         git push origin HEAD:main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
